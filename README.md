@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <!--<a href="https://github.com/lazarusking/Web_Dev_Bootcamp/tree/main/TinDog-Start-master">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lazarusking&repo=Web_Dev_Bootcamp" />
 </a>-->
-<a href="https://github.com/lazarusking/tg-timetable-bot">
+<!--<a href="https://github.com/lazarusking/tg-timetable-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lazarusking&repo=tg-timetable-bot" />
-</a>
+</a>-->
