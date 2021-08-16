@@ -1,5 +1,6 @@
-### Hi there I'm [Lazarus](https://github.com/lazarusking)👋 
+<!-- ### Hi there I'm [Lazarus](https://github.com/lazarusking)👋  -->
 <div align="center">
+  <h3>Hi there I'm <a href="https://github.com/lazarusking">Lazarus</a>👋  </h3>
   <p>
     <strong>Languages</strong>
   </p>
