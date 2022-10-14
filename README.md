@@ -6,7 +6,7 @@
   </p>
   <img alt="Python" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript">
-  <img alt="Java" src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white"/>
+  <!-- <img alt="Java" src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white"/> -->
   <br>
   <p>I am your average lazy programmer☕☕</p>
 
