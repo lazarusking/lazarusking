@@ -14,7 +14,7 @@
 
 [![Lazarus' stats](https://lk-readme-stats.vercel.app/api?username=lazarusking&theme=cobalt&show_icons=true&title_color=blue)](https://lk-readme-stats.vercel.app/)
 <a href="https://lk-readme-stats.vercel.app">
-  <img src="https://lk-readme-stats.vercel.app/api/top-langs?username=lazarusking&layout=compact&hide=html&theme=cobalt&title_color=blue&langs_count=8">
+  <img src="https://lk-readme-stats.vercel.app/api/top-langs?username=lazarusking&layout=compact&hide=html,css&theme=cobalt&title_color=blue&langs_count=8">
 </a>   
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarusking&layout=compact&hide=html&theme=cobalt&title_color=blue)](https://lk-readme-stats.vercel.app/) -->
 <!--<a href="https://github.com/lazarusking/Web_Dev_Bootcamp/tree/main/TinDog-Start-master">
