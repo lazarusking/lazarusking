@@ -6,9 +6,11 @@
   </p>
   <img alt="Python" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript">
+  <img alt="Golang" src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <!-- <img alt="Java" src="https://img.shields.io/badge/java-brown?style=for-the-badge&logo=java&logoColor=white"/> -->
   <br>
-  <p>I am your average lazy programmer☕☕</p>
+
+  <p>The journey to self mastery never ends</p>
 
 </div>
 
